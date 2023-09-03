@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\sumeyahaji\bin\Debug\net6.0\sumeyahaji.exe
+C:\Users\PC\source\repos\sumeyahaji\bin\Debug\net6.0\sumeyahaji.deps.json
+C:\Users\PC\source\repos\sumeyahaji\bin\Debug\net6.0\sumeyahaji.runtimeconfig.json
+C:\Users\PC\source\repos\sumeyahaji\bin\Debug\net6.0\sumeyahaji.dll
+C:\Users\PC\source\repos\sumeyahaji\bin\Debug\net6.0\sumeyahaji.pdb
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.AssemblyInfo.cs
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.dll
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\refint\sumeyahaji.dll
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.pdb
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\sumeyahaji.genruntimeconfig.cache
+C:\Users\PC\source\repos\sumeyahaji\obj\Debug\net6.0\ref\sumeyahaji.dll
